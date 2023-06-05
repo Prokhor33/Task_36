@@ -1,0 +1,4 @@
+decision.append(str(operation(i, j)))
+ print(" ".join(решение))
+
+print_operation_table(lambda x, y: x * y)
